@@ -61,6 +61,8 @@ Our approach involved several key steps:
 
 - The **recommendation system** provides users with the top 5 most similar papers based on the cosine similarity of embeddings.
 - Key insights into **publication trends** were uncovered, especially in the **Computer Science** field, showing a steady rise in research outputs over the years.
+
+- 
   ![image](https://github.com/user-attachments/assets/158c4ac1-a058-42f2-a6ef-9ecdcd74f5a9)
 
 
